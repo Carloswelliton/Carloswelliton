@@ -15,4 +15,4 @@
 
 #
 
-Desenvolvedor e pesquisador, entusiasta de tecnologia com conhecimentos nas principais linguagens utilizadas no mercado. Em um relacionamento sério com desenvolvimento Web.
+Desenvolvedor e pesquisador, entusiasta de tecnologia com conhecimentos nas principais linguagens utilizadas no mercado. Em um relacionamento sério com desenvolvimento backend.
