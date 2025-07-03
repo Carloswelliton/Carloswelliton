@@ -17,4 +17,4 @@
 
 #
 
-Desenvolvedor e pesquisador, entusiasta de tecnologia com conhecimentos nas principais linguagens utilizadas no mercado. Em um relacionamento sério com desenvolvimento backend.
+Desenvolvedor e estudante backend focado em tecnologias como Java e Srping-boot, NodeJs e ExpressJs 
