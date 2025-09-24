@@ -36,7 +36,8 @@ Busco constantemente aprimorar minhas habilidades, explorando novas ferramentas 
 ### **DevOps / Ferramentas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+[![Oracle Certified Foundations Associate](https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFA.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A2B06CDE6328F69A6A5A5A5A5A5A5A5)  
+ 
 
 ---
 
