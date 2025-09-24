@@ -42,9 +42,9 @@ Busco constantemente aprimorar minhas habilidades, explorando novas ferramentas 
 ---
 
 ## 🚀 Projetos em Destaque  
-- [📱 Projeto Flutter - Login e Integração Backend](https://github.com/seu-repo)  
-- [🤖 Chatbot WhatsApp + Firebase](https://github.com/seu-repo)  
-- [🍴 Cantina++ (Sistema de Gerenciamento para Estudantes)](https://github.com/seu-repo)  
+- [💻 Projeto Spring - Sistema de gerenciamento de serviços](https://github.com/Carloswelliton/Drop-system)  
+- [🤖 Chatbot WhatsApp + Firebase](https://github.com/Carloswelliton/GoldPetChatbot)  
+- [📱 Projeto Flutter -Sistema de atendimento automatizado para postos de saude](https://github.com/Carloswelliton/TotemHealthCare)  
 
 ---
 
