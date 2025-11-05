@@ -1,11 +1,11 @@
 # 👨‍💻 Carlos Welliton
 
-### Desenvolvedor Backend em formação | Estudante de Análise e Desenvolvimento de Sistemas (IFMS)
+### Desenvolvedor Backend | Estudante de Análise e Desenvolvimento de Sistemas (IFMS)
 
 ---
 
 ## 📌 Sobre mim  
-Sou **desenvolvedor backend em formação**, apaixonado por criar soluções **eficientes ⚡ e escaláveis 🌐**.  
+Sou **desenvolvedor backend**, apaixonado por criar soluções **eficientes ⚡ e escaláveis 🌐**.  
 Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas** no IFMS e atuo em projetos que envolvem **integração de APIs, persistência de dados e arquitetura de software**.  
 
 Busco constantemente aprimorar minhas habilidades, explorando novas ferramentas e boas práticas de desenvolvimento para entregar **código limpo e de alta qualidade**.  
