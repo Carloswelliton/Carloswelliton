@@ -37,6 +37,7 @@ Busco constantemente aprimorar minhas habilidades, explorando novas ferramentas 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 [![Oracle Certified Foundations Associate](https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFA.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3B2C2B7CCE72A4842D2922F229B9E6919FC240A896B3F4BD87B393C4BA5FC00)  
+[![AWS re/Start Graduate](badges/image.png)](https://www.credly.com/badges/05a2ad3c-0229-4146-a920-92f03324e731)
  
 
 ---
